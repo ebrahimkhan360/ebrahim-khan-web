@@ -14,16 +14,24 @@ body{
     background-color: #c7bddc;
 }
 
+.n-logo{
+    font-family: 'Monoton', cursive;
+    font-size: 30px;
+
+}
+
 .titel-style{
-    font-size: 70px;
     font-family: 'Roboto', sans-serif;
-    color: #8287cb9f;
+    font-size: 50px;
+    color: #be0505;
+    border-bottom: 2px solid #be0505 ;
+    border-radius: 50px;
 }
 
 
 .carosel-style{
     font-family: 'Monoton', cursive;
-    color: #5100ff;
+    color: #50fc00;
 }
 
 .cart{
@@ -36,7 +44,7 @@ box-shadow: 1px 5px 7px;
 
 .reting-icon{
     color: #91eb12;
-    width: 150px;
+    width: 50px;
 }
 
 .button-icon{
@@ -45,7 +53,7 @@ box-shadow: 1px 5px 7px;
 
 .cart-button{
     margin: 10px;
-    margin-left: 110px;
+    margin-left: 120px;
     width: 130px;
     padding: 5px;
     border-radius: 5px;
