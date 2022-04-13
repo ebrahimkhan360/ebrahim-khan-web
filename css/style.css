@@ -1,13 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Allura&family=Black+Ops+One&family=Monoton&family=Poppins&family=Roboto:wght@700&family=Rubik+Glitch&family=Rubik+Puddles&family=Signika&display=swap');
+
+/* font-family: 'Allura', cursive;
+font-family: 'Black Ops One', cursive;
+font-family: 'Monoton', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Rubik Glitch', cursive;
+font-family: 'Rubik Puddles', cursive;
+font-family: 'Signika', sans-serif; */
+
 body{
-    background-color: #d5b771;
+    font-family: 'Poppins', sans-serif;
+    background-color: #c7bddc;
 }
+
+.titel-style{
+    font-size: 70px;
+    font-family: 'Roboto', sans-serif;
+    color: #8287cb9f;
+}
+
 
 .carosel-style{
-
+    font-family: 'Monoton', cursive;
+    color: #5100ff;
 }
 
-.cart-style{
-    margin: 40px;
+.cart{
+    font-family: 'Poppins', sans-serif;
+}
+
+.carthovers:hover{
+box-shadow: 1px 5px 7px;
+}
+
+.reting-icon{
+    color: #91eb12;
+    width: 150px;
+}
+
+.button-icon{
+    width: 5px;
+}
+
+.cart-button{
+    margin: 10px;
+    margin-left: 110px;
+    width: 130px;
+    padding: 5px;
+    border-radius: 5px;
+    color: #ffffff;
+    background-color: #ff0000;
+    text-decoration: none;
+    
+}
+
+.cart-button:hover{
+    box-shadow: 1px 2px 5px;
 }
 
 .footer-style{
